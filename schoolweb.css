@@ -1,0 +1,50 @@
+body{
+    
+    
+    
+}
+ol{
+    list-style: none;
+    margin-left: -23px;
+    text-align: center;
+    background: url(10.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.list{
+    display: inline-flex;
+    padding: 34px;
+    margin: auto;
+    text-indent: 39px;    
+}
+.list li a{
+    font-weight: bold;
+    text-decoration: none;
+    color: rgba(7, 28, 65, 0.826);
+    font-size: 20px;
+    border-radius: 10px;
+    border-bottom-style: ridge;
+    padding: 2px;
+    
+}
+.list li a:hover{
+    color: rgb(0, 119, 255);
+    border-color: cyan;
+    
+        
+}
+.section h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: color-mix(in hsl shorter hue, blue 45%, green 40%);
+    
+}
+frame{
+    border-right: 100px;
+}
+p{
+    font-size: 34px;
+    text-align: center;
+   
+    
+}

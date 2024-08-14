@@ -1,0 +1,101 @@
+*{
+    text-decoration-line: none;
+    
+    
+}
+body{
+    display: flexbox;
+    background-image: url(1.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;    
+}
+.form{
+    table-layout: fixed;
+    
+    
+}
+.login{
+    
+    font-size: 24px;
+    font-weight: bold;
+    color: blue;
+    font-style: none;
+}
+.email{
+    font-size: 12px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 23px;
+    word-spacing: 15px;
+    
+}
+.password{
+    font-size: 12px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 23px;
+}
+.placeholder{
+    text-overflow: clip;
+    border-color: aqua;
+    background-color: lightcyan;
+    border-radius: 8px ;
+    
+    
+}
+#border{
+    border-color: solid blanchedalmond;
+    margin-right: 85%;
+    margin-bottom: 20%;
+    border-radius: 10px;
+    border-color: rgb(0, 227, 252);
+    background-color: rgb(205, 236, 255);
+    margin-left: 47%;
+    margin-top: 17%;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    
+
+    
+    
+    
+}
+.but{
+  
+    background-color: lightblue;
+    border-radius: 5px;
+    border-color: aquamarine;
+}
+
+
+.logo{
+    display: block;
+    height: 30px;
+    width: 30px;
+    background: black;
+}
+.fieldset_2{
+    margin-right: 75%;
+    
+    
+    margin-bottom: 20%;
+    border-radius: 12px;
+    border-color: rgb(0, 227, 252);
+    background-color: rgb(205, 236, 255);
+    margin-left: 47%;
+    margin-top: 17%;
+    padding: 50px;
+   
+   
+}
+form2{
+    font-size: 15px;
+    justify-items: normal;
+   
+}
+.holder{
+    background-color: cyan;
+    box-shadow: inset cyan;
+    border-radius: 5px;
+    border-color: aquamarine;
+}
